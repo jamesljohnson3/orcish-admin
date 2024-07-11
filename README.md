@@ -7,7 +7,7 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn devx
+yarn devxss
 # or
 pnpm dev
 # or
